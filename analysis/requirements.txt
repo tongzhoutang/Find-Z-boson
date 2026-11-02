@@ -1,0 +1,6 @@
+numpy
+scipy
+matplotlib
+uproot
+awkward
+vector
